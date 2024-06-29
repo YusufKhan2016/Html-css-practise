@@ -1,0 +1,17 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p{
+    line-height: 28px;
+}
+#outer{
+    text-justify: 20px;
+}
+#inner{
+    font-size: 10px
+}

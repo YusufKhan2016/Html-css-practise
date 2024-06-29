@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* padding-top:10px; */
+}
+#logo{
+    color:goldenrod;
+    margin-left: 50px;
+}
+div{
+    background-color: black;
+    height: 50px;
+}
+a{
+    margin-right: 190px;
+    color: aliceblue;
+    text-decoration: none;
+}
+input{
+    margin-left: -60px;
+}
+button{
+    background-color: goldenrod;
+    color: white;
+    
+}

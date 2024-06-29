@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* padding-top:10px; */
+}
+
+header{
+    background-color: black;
+    height: 50px;
+}
+#logo{
+    color:goldenrod;
+    margin-left: 50px;
+}
+a{
+    margin-right: 190px;
+    color: aliceblue;
+    text-decoration: none;
+}
+input{
+    margin-left: -60px;
+}
+button{
+    background-color: goldenrod;
+    color: white;
+    
+}
+div {
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 30px;
+}
+#div1-bg-color{
+    background-color: rgba(222, 184, 135, 0.5);
+}
+#div2-bg-color{
+    background-color: rgba(0, 255, 255, 0.5);
+}
+#div3-bg-color{
+    background-color: rgba(153, 205, 50, 0.5);
+}
+.border{
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 100px;
+    border-radius: 30px;
+    border-width: 20px;
+    height: auto;
+    padding: 20px;
+}
+

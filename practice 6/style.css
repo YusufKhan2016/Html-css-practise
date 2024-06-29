@@ -1,0 +1,38 @@
+
+.navbar{
+    justify-content: space-evenly;
+    background-color: aquamarine;
+    display: flex;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: blanchedalmond;
+    
+
+}
+li{
+    list-style-type: none;
+    display: inline;
+    
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inner{
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+
+}

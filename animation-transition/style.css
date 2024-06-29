@@ -1,0 +1,22 @@
+.loader{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 20px solid yellow;
+    border-top: 20px solid aquamarine;
+    animation-name: spinAnimate;
+    animation-duration: 3s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    
+}
+
+@keyframes spinAnimate {
+    from {
+        treansform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg)
+    }
+}
